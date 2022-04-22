@@ -6,4 +6,4 @@
 
 # Codacy score
 
-Code Quality ![Code Quality Score](https://api.codiga.io/project/33055/score/svg)
+Code Quality ![Code Quality Score](https://api.codiga.io/project/33055/status/svg)
