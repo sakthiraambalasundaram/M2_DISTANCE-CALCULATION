@@ -1,4 +1,4 @@
-name: Cppcheck 
+name: Cppcheck
 
 on:
   push:
@@ -12,12 +12,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
-    
+    - uses: actions/checkout@v2
     - name: get_cppcheck
       run: sudo apt-get install cppcheck
-      
     - name: Code Quality
       run: make analysis
-      
-   
