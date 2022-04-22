@@ -6,4 +6,4 @@
 
 # Codacy score
 
-Code Quality ![Code Quality Score](https://user-images.githubusercontent.com/65847751/164722590-9d0e2d70-64d0-4139-b921-a99ed4ad4796.svg)
+Code Quality ![Code Quality Score](https://api.codiga.io/project/33055/score/svg)
