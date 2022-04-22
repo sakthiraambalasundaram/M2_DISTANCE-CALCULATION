@@ -61,6 +61,10 @@ After wiring and connecting all of the devices and connecting them to the switch
 
 # Applications:
 
+* Loop control
+* Robotic sensing
+* Vehicle detection for car wash and automotive assembly
+* Box sorting using multi-transducer ultrasonic monitoring system
 # Advantage:
 
 * Compact
