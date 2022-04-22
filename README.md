@@ -14,5 +14,5 @@ Code Quality ![Code Quality Score](https://api.codiga.io/project/33055/status/sv
 [![Build-Linux](https://github.com/sakthiraambalasundaram/M2_DISTANCE_METER/blob/main/.github/workflows/Build%20on%20linux.yml/badge.svg)](https://github.com/sakthiraambalasundaram/M2_DISTANCE_METER/blob/main/.github/workflows/Build%20on%20linux.yml)
 
 * Cppcheck Analysis
-* 
+
 [![Cppcheck Analysis](https://github.com/sakthiraambalasundaram/M2_DISTANCE_METER/blob/main/.github/workflows/cppcheck.yml/badge.svg)](https://github.com/sakthiraambalasundaram/M2_DISTANCE_METER/blob/main/.github/workflows/cppcheck.yml)
