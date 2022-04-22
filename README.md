@@ -6,4 +6,4 @@
 
 # Codacy score
 
-[![Codiag](https://user-images.githubusercontent.com/65847751/164722590-9d0e2d70-64d0-4139-b921-a99ed4ad4796.svg)]
+[Codiag](https://user-images.githubusercontent.com/65847751/164722590-9d0e2d70-64d0-4139-b921-a99ed4ad4796.svg)
